@@ -1,0 +1,105 @@
+/* header */
+
+header {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 41px 117px 0 69px;
+}
+
+/* logo */
+
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* nav */
+
+nav {
+  display: inline-block;
+  vertical-align: middle;
+  font-family: "Anton";
+}
+
+li {
+  display: inline-block;
+}
+
+.nav_link {
+  color: #0f5009;
+  margin-left: 83px;
+  font-size: 23px;
+  font-family: "Anton";
+}
+
+.active {
+  color: #fa1a35;
+  margin-left: 312px;
+}
+
+/* section */
+
+section {
+  background-color: #1f6519;
+  width: 1440px;
+  margin: 0 auto;
+  padding: 110px 61px 154px 69px;
+  margin-top: 134px;
+}
+
+.mission {
+  display: inline-block;
+}
+
+h3 {
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+div {
+  display: inline-block;
+  width: 448px;
+  font-size: 32px;
+  vertical-align: top;
+  margin-left: 76px;
+  color: #ffffff;
+}
+
+/* article */
+
+article {
+  width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+  width: 1017px;
+  margin-bottom: 137px;
+}
+
+h5 {
+  font-size: 40px;
+  color: #0f5009;
+  margin-top: 92px;
+}
+
+.art {
+  font-size: 32px;
+  color: #1f6519;
+  margin-top: 92px;
+}
+
+/* footer */
+
+footer {
+  width: 1440px;
+  background-color: #1f6519;
+  margin: 0 auto;
+  padding: 77px 118px 70px 109px;
+}
+
+.foot {
+  color: #ffffff;
+  font-size: 24px;
+  display: inline-block;
+  margin-left: 610px;
+}
